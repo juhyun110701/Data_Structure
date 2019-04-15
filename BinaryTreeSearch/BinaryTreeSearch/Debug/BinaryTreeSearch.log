@@ -1,0 +1,15 @@
+﻿빌드 시작: 2018-10-17 오전 9:34:23
+     1>2 노드의 "C:\Users\Samsung\Desktop\DS\BinaryTreeSearch\BinaryTreeSearch\BinaryTreeSearch.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt BinaryTreeSearch.c
+         BinaryTreeSearch.c
+     1>c:\users\samsung\desktop\ds\binarytreesearch\binarytreesearch\binarytreesearch.c(15): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+     1>c:\users\samsung\desktop\ds\binarytreesearch\binarytreesearch\binarytreesearch.c(41): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Samsung\Desktop\DS\BinaryTreeSearch\Debug\BinaryTreeSearch.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Samsung\Desktop\DS\BinaryTreeSearch\Debug\BinaryTreeSearch.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Samsung\Desktop\DS\BinaryTreeSearch\Debug\BinaryTreeSearch.lib" /MACHINE:X86 Debug\BinaryTreeSearch.obj
+         BinaryTreeSearch.vcxproj -> C:\Users\Samsung\Desktop\DS\BinaryTreeSearch\Debug\BinaryTreeSearch.exe
+     1>"C:\Users\Samsung\Desktop\DS\BinaryTreeSearch\BinaryTreeSearch\BinaryTreeSearch.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.56
